@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2FMRTE-Player.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2FMRTE-Player?ref=badge_shield)
+
 MRTE-Player
 ===========
 
@@ -100,3 +102,7 @@ Limitations
    I tried a lot of efforts to keep the original transactions order to target MySQL server like transaction split by hashed queue and transfer based on the order of source MySQL server.
    This will reserve the order of transaction but not 100%.
    So we count and print some SQL error count like Deadlock and Lock wait-timeout.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2FMRTE-Player.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2FMRTE-Player?ref=badge_large)
